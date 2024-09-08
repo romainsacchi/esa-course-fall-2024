@@ -34,16 +34,14 @@ based on its total capacity, annual production, and expected lifetime.
 - Copper: 1,500 tons
 - Fiberglass (blades): 3,000 tons
 - Rare earth metals (neodymium): 30 tons
-- Energy consumption for manufacturing: 4,500 MWh
+- Electricity consumption for manufacturing: 4,500 MWh
 
 #### Manufacture Outputs
 - Waste material (concrete): 120,000 tons
-- Waste material (steel): 24,000 tons
 - Waste material (fiberglass): 3,000 tons
 
 #### Operation Inputs
 - Maintenance: 0.1% of total turbine mass annually
-- Land use: 300 hectares
 
 #### Operation Outputs (Direct Emissions)
 - CO2 emissions: 0 g/kWh (no direct emissions during operation)
@@ -60,14 +58,10 @@ based on its total capacity, annual production, and expected lifetime.
 - Glass: 10,000 tons
 - Aluminum: 2,000 tons
 - Silver: 100 tons
-- Energy consumption for manufacturing: 50,000 MWh
-
-#### Manufacture Outputs
-- Waste material (recycling potential): 15,000 tons
+- Electricity consumption for manufacturing: 50,000 MWh
 
 #### Operation Inputs
 - Cleaning water: 0.001 L/kWh
-- Land use: 120 hectares
 
 #### Operation Outputs (Direct Emissions)
 - CO2 emissions: 0 g/kWh (no direct emissions during operation)
@@ -84,7 +78,7 @@ based on its total capacity, annual production, and expected lifetime.
 - Steel: 100,000 tons
 - Concrete: 250,000 tons
 - Copper: 1,000 tons
-- Energy consumption for manufacturing: 10,000 MWh
+- Electricity consumption for manufacturing: 10,000 MWh
 
 #### Manufacture Outputs
 - Waste material (concrete): 250,000 tons
@@ -95,8 +89,6 @@ based on its total capacity, annual production, and expected lifetime.
 
 #### Operation Outputs (Direct Emissions)
 - CO2 emissions: 820 g/kWh (from coal combustion)
-- SOx and NOx emissions: 0.05 g/kWh
-- Ash: 0.03 kg/kWh
 
 ---
 
@@ -109,10 +101,10 @@ based on its total capacity, annual production, and expected lifetime.
 - Steel: 50,000 tons
 - Concrete: 200,000 tons
 - Copper: 1,500 tons
-- Energy consumption for manufacturing: 10,000 MWh
+- Electricity consumption for manufacturing: 10,000 MWh
 
 #### Manufacture Outputs
-- Waste material (Concretel): 200,000 tons
+- Waste material (Concrete): 200,000 tons
 
 #### Operation Inputs
 - Natural gas consumption: 0.15 m³/kWh
@@ -120,8 +112,6 @@ based on its total capacity, annual production, and expected lifetime.
 
 #### Operation Outputs (Direct Emissions)
 - CO2 emissions: 450 g/kWh (from natural gas combustion)
-- NOx emissions: 0.03 g/kWh
-- Water vapor: 0.9 L/kWh
 
 ---
 
@@ -134,7 +124,7 @@ based on its total capacity, annual production, and expected lifetime.
 - Steel: 300,000 tons
 - Concrete: 1,000,000 tons
 - Copper: 10,000 tons
-- Energy consumption for manufacturing: 30,000 MWh
+- Electricity consumption for manufacturing: 30,000 MWh
 
 #### Manufacture Outputs
 - Waste material (Concrete): 1,000,000 tons
@@ -145,7 +135,7 @@ based on its total capacity, annual production, and expected lifetime.
 - Land use: 500 hectares (due to reservoir)
 
 #### Operation Outputs (Direct Emissions)
-- CO2 emissions: 2 g/kWh (due to methane emissions from reservoir)
+- CH4 emissions: 2 g/kWh (due to methane emissions from reservoir)
 - Water evaporation: 2 L/kWh
 
 ---
@@ -161,3 +151,11 @@ based on its total capacity, annual production, and expected lifetime.
 | Hydropower        | 2                      | 0                  | Water evaporation: 2 L/kWh |
 
 ---
+
+## Current grid electricity mix
+
+- Coal: 40%
+- Natural Gas: 30%
+- Hydropower: 20%
+- Wind: 5%
+- Solar: 5%
